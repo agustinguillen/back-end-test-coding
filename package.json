@@ -1,0 +1,18 @@
+{
+  "name": "back-end-test-coding",
+  "version": "1.0.0",
+  "description": "1. Clonar el repositorio desde https://github.com/agustinguillen/back-end-test-coding.git\r a. git clone https://github.com/agustinguillen/back-end-test-coding.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustinguillen/back-end-test-coding.git"
+  },
+  "author": "Agustin Nicolas Guillen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agustinguillen/back-end-test-coding/issues"
+  },
+  "homepage": "https://github.com/agustinguillen/back-end-test-coding#readme"
+}
